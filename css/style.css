@@ -29,12 +29,15 @@ a{
   display: flex;
 }
 .half-width{
-  width:50%;
+  width:40%;
   margin:0 5%;
 }
 .banner_image img{
   width: 100%;
   margin-top: 2%;
+}
+.banner_content{
+  padding-left: 2%;
 }
 .btn{
   text-transform: uppercase;
